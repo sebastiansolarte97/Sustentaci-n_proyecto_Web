@@ -1,0 +1,122 @@
+body{
+	background:#137870;
+}
+#contenedor{
+width:100%; 
+height: 120px;
+background: '';
+padding: 10px;
+	box-shadow: 3px 3px 3px 3px #726f6f;
+
+}
+#letras{
+	width: 300px;
+	height: 50px;
+	position: absolute;
+	top:50px;
+	left:50px;
+}
+#titulo{
+	text-decoration: none;
+	font-size: 65px;
+	color: #fff;
+}
+#botones{
+	float: right;
+	display: inline-block;
+	text-decoration: none;
+	padding: 10px;
+	color: #fff; 
+	font-size:25px;
+	margin: 10px;
+}
+#botones:hover{ /*:hover es una funcion de css para cuando el cursor pase por los botones estos cambien ciertos atributos*/
+	background: #acefdd;
+	border-radius: 5px;
+	color: blue;
+}
+#fondo1{
+	width: 100%;
+	height: auto;
+}
+#parra{
+	background: #4aceab;
+	padding: 10px;
+	margin: 29px;
+	border-radius: 5px;
+	color: #fff;
+	width: 300px;
+	height: 40px;
+	position: absolute;
+	top: 567px;
+	left: 500px;
+}
+#conten1{
+	width: 410px;
+	height: 460px;
+	position: absolute;
+	top: 670px;
+	left: 170px;
+	background: #fff;
+	text-align: center;
+	border-radius: 9px;
+	margin: 5px;
+	padding: 5px;
+}
+#conten2{
+	width: 410px;
+	height: 460px;
+	position: absolute;
+	top: 668px;
+	left: 730px;
+	background: #fff;
+	text-align: center;
+	border-radius: 9px;
+	margin: 5px;
+	padding: 5px;
+}
+
+#im1{
+	width: 400px;
+	height: 300px;
+}
+#parraf{
+	text-align: justify;
+	color: black;
+
+
+}
+#final{
+	display: inline-block;
+	background: #4aceab;
+	position: absolute;
+	top: 1150px;
+	left: -10px;
+	width: 100%;
+	height: 100px;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	box-shadow: 3px 3px 3px 3px #726f6f;
+}
+#uno, #dos{
+	display: inline-block;
+}
+/**/#uno{
+	float: left;
+	width: 300px;
+	height: 150px;
+}
+#dos{
+	float: right;
+	width: 450px;
+	height: 150px;
+}
+#titulo_sub{
+font-size: 23px;
+color: #fff;
+}
+#sub{
+	font-size: 15px;
+	color: #fff;
+}
