@@ -1,0 +1,32 @@
+										Nombre del proyecto:
+										     Daily News
+
+										   PROPUESTA
+La función principal de esta aplicación llamada Daily News consiste es informar a los padres de familia y a los estudiantes acerca de las actividades
+extracurriculares a realizar en el año escolar de una institución educativa, el estado académico de los estudiantes, los llamados de atención; este
+diario de campo los profesores deberán montar los reportes de sus cursos.
+
+										  ENTREVISTA:
+
+¿Qué tipo de herramientas utilizan para estar al día con la información de los estudiantes a los padres de familia?
+Bueno, usualmente se utiliza las llamadas en casos extremos, pero generalmente se usa un volante en el cual se suministra esa información, ejemplo el
+estado disciplinario del estudiante, si hay reunión o acto cívico, cualquier tipo de información, y respecto al estado disciplinario según la gravedad
+siempre se le hace un llamado al padre de familia por medio del estudiante, lo cual no debería ser así ya que algunos no le notifican eso a sus padres.
+
+¿Cuáles son las notificaciones que más envían a los padres de familia?
+Las que más enviamos son actividades (entre esas los actos cívicos, día del idioma, por ejemplo, reuniones de padres etc.) esto hacemos una especie de
+noticias que la pegan en el cuaderno, llamados de atención, estado académica, respecto a este usualmente se llena una ficha y se notifica a los padres 
+según como se realice, es decir que se le dice a los padres o acudientes que los estudiantes van mal académicamente o disciplinariamente. Eso se llama 
+ficha de observación. 
+
+¿Quién les suministra la información a quien respecto a cada una de las actividades?
+Bueno, aquí se hace una reunión donde se suministra esa información de cada director de grupo al coordinador ya sea académica o de disciplina, en cualquiera
+de los casos, se entrega una ficha donde se pasa el reporte, es decir el director de grupo es quien pasa el reporte al coordinador académica. Y respecto a las
+actividades el coordinador de disciplina y académico se las hacen llegar al profesor para que esté le avisé a los estudiantes.
+
+¿Les gustaría tener una aplicación que les permita suministrar información y estar informado a los padres de familia la situación de los estudiantes?
+Me parece que sería de muchísima ayuda ya que sería de una forma más rápida y fácil se ahorraría papel y tinta para tal asunto.
+
+Nombre de los integrantes:
+Sebastián Andrés Solarte Sáez.
+Mirian Del Carmen Lobo Pinto.
