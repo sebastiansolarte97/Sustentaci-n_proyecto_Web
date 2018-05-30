@@ -1,0 +1,7 @@
+Nombre del proyecto:
+DIARIO INFORMATIVO
+
+PROPUESTA
+La función principal de esta aplicación llamada Daily News consiste es informar a los padres de familia y a los estudiantes acerca de las actividades
+extracurriculares a realizar en el año escolar de una institución educativa, el estado académico de los estudiantes, los llamados de atención; este 
+diario de campo los profesores deberán montar los reportes de sus cursos
